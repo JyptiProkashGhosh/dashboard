@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.73968d5d.css",
+    "main.js": "/dashboard/static/js/main.8bd6d361.js",
+    "static/media/sharpness.jpg": "/dashboard/static/media/sharpness.c22c5b56f6000ffa281f.jpg",
+    "static/media/jyoti.png": "/dashboard/static/media/jyoti.b40e129374a74d2b8ecb.png",
+    "static/media/abstract.png": "/dashboard/static/media/abstract.a7af89187e8b35506c58.png",
+    "index.html": "/dashboard/index.html",
+    "main.73968d5d.css.map": "/dashboard/static/css/main.73968d5d.css.map",
+    "main.8bd6d361.js.map": "/dashboard/static/js/main.8bd6d361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73968d5d.css",
+    "static/js/main.8bd6d361.js"
+  ]
+}
